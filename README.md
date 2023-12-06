@@ -1,2 +1,1 @@
-# Stack-Overflow-Developer
-Stack Overflow Developer Survey
+Collected Job data using API, gathered popular languages compared to salary, and stored in a CSV.  Web scraped to collect data on job postings per city and stored in an Excel spreadsheet. Survey results were stored in an IBM database with visuals obtained with IBM Cognos. Analysis compared popular languages, databases, platforms, and web frames to desired technologies.  Comparing education, gender, and income was also used in the analysis.
